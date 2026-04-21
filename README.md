@@ -25,7 +25,7 @@ This project is an interactive Hospital Patient Dashboard built using Microsoft 
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](hospital_dashboard.png)
 
 ---
 
