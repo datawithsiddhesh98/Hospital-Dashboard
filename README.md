@@ -46,8 +46,8 @@ This project is an interactive Hospital Patient Dashboard built using Microsoft 
 ---
 
 ## 🔗 Connect With Me
-- GitHub: https://github.com/your-username
-- LinkedIn: (add your link here)
+- GitHub: [https://github.com/your-username](https://github.com/datawithsiddhesh98)
+- LinkedIn: [([add your link here](https://www.linkedin.com/in/siddhesh-mithbavkar/))](https://www.linkedin.com/in/siddhesh-mithbavkar/)
 
 ---
 
